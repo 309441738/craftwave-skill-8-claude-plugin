@@ -1,0 +1,18 @@
+{
+  "name": "craftwave-skill-8-marketplace",
+  "owner": {
+    "name": "craftwave"
+  },
+  "metadata": {
+    "description": "奢华邮轮体验 的 Claude Code 插件市场，由CruiseSkillBridge 发布。",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "craftwave-skill-8",
+      "source": "./plugins/craftwave-skill-8",
+      "description": "适合寻找奢华邮轮之旅的旅客，您可以根据品牌和目的地筛选出最佳选择，享受顶级服务。",
+      "version": "0.1.0"
+    }
+  ]
+}
